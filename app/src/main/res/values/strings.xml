@@ -1,0 +1,89 @@
+<resources>
+    <!-- App General -->
+    <string name="app_name">TechHub</string>
+    <string name="app_tagline">Markets, Tech Feed &amp; AI Interview Coach</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_markets">Markets</string>
+    <string name="nav_articles">Articles</string>
+    <string name="nav_interview">AI Coach</string>
+
+    <!-- Common UI States & Actions -->
+    <string name="common_retry">Retry</string>
+    <string name="common_refresh">Refresh</string>
+    <string name="common_search_placeholder">Search…</string>
+    <string name="common_offline_banner">Offline mode — Displaying cached data</string>
+    <string name="common_error_generic">Something went wrong. Please try again.</string>
+    <string name="common_empty_title">No data available</string>
+    <string name="common_empty_subtitle">Pull down to refresh or check your internet connection.</string>
+    <string name="common_clear">Clear</string>
+    <string name="common_close">Close</string>
+
+    <!-- Feature: Markets (Crypto) -->
+    <string name="crypto_title">Crypto Markets</string>
+    <string name="crypto_search_hint">Search crypto by name or symbol…</string>
+    <string name="crypto_rank_format">#%1$d</string>
+    <string name="crypto_price_usd_format">$%1$,.2f</string>
+    <string name="crypto_change_format">%1$+.2f%%</string>
+    <string name="crypto_market_cap_label">Market Cap</string>
+    <string name="crypto_volume_label">24h Volume</string>
+    <string name="crypto_high_24h_label">24h High</string>
+    <string name="crypto_low_24h_label">24h Low</string>
+    <string name="crypto_detail_title">Coin Details</string>
+
+    <!-- Feature: Articles (Dev.to) -->
+    <string name="articles_title">Tech Feed</string>
+    <string name="articles_tab_all">Latest</string>
+    <string name="articles_tab_saved">Saved Bookmarks</string>
+    <string name="articles_reading_time_format">%1$d min read</string>
+    <string name="articles_bookmark_saved">Article saved for offline reading</string>
+    <string name="articles_bookmark_removed">Bookmark removed</string>
+    <string name="articles_empty_bookmarks">No saved bookmarks yet</string>
+    <string name="articles_empty_bookmarks_sub">Tap the bookmark icon on any article to save it offline.</string>
+    <string name="articles_open_browser">Read on Web</string>
+
+    <!-- Feature: AI Interview Coach (Gemini AI) -->
+    <string name="interview_title">AI Mock Interview</string>
+    <string name="interview_select_topic">Select Topic</string>
+    <string name="interview_select_level">Experience Level</string>
+    <string name="interview_topic_android">Android &amp; Jetpack</string>
+    <string name="interview_topic_kotlin">Kotlin &amp; Coroutines</string>
+    <string name="interview_topic_architecture">Clean MVVM &amp; System Design</string>
+    <string name="interview_topic_dsa">Algorithms &amp; Data Structures</string>
+    
+    <string name="interview_level_junior">Junior (0-2 yrs)</string>
+    <string name="interview_level_mid">Mid-Level (3-5 yrs)</string>
+    <string name="interview_level_senior">Senior / Lead (5+ yrs)</string>
+
+    <string name="interview_start_button">Generate Question</string>
+    <string name="interview_question_label">Interview Question</string>
+    <string name="interview_answer_hint">Type your technical explanation here…</string>
+    <string name="interview_submit_answer">Submit for AI Evaluation</string>
+    <string name="interview_evaluating">Gemini AI is analyzing your response…</string>
+    <string name="interview_feedback_title">AI Evaluation &amp; Feedback</string>
+    <string name="interview_new_question">Next Question</string>
+    <string name="interview_history_title">Saved Interview Sessions</string>
+    <string name="interview_history_empty">No completed interview sessions yet.</string>
+    <string name="interview_score_label">Score: %1$d/10</string>
+
+    <!-- Theme Customization -->
+    <string name="theme_dialog_title">Choose Appearance</string>
+    <string name="theme_palette_label">Color Accent</string>
+    <string name="theme_palette_cobalt">Cobalt Blue</string>
+    <string name="theme_palette_emerald">Emerald Mint</string>
+    <string name="theme_palette_amethyst">Amethyst Purple</string>
+    <string name="theme_mode_label">Theme Mode</string>
+    <string name="theme_mode_system">System</string>
+    <string name="theme_mode_light">Light</string>
+    <string name="theme_mode_dark">Dark (OLED)</string>
+    <string name="theme_settings_tooltip">Customize Theme</string>
+
+    <!-- Hero Card Labels -->
+    <string name="hero_market_pulse">Market Pulse</string>
+    <string name="hero_market_subtitle">Real-time asset tracking with offline sync</string>
+    <string name="hero_trending_label">Trending</string>
+    <string name="hero_articles_title">Tech Insights</string>
+    <string name="hero_articles_subtitle">Curated developer intelligence</string>
+    <string name="hero_ai_title">AI Interview Prep</string>
+    <string name="hero_ai_subtitle">Interactive mock sessions with real-time feedback</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <color name="primary_light">#0D59F2</color>
+    <color name="on_primary_light">#FFFFFF</color>
+    <color name="primary_container_light">#DCE1FF</color>
+    <color name="on_primary_container_light">#001550</color>
+
+    <color name="secondary_light">#595E71</color>
+    <color name="background_light">#FDFBFF</color>
+    <color name="surface_light">#FDFBFF</color>
+
+    <color name="primary_dark">#B6C4FF</color>
+    <color name="on_primary_dark">#00287D</color>
+    <color name="primary_container_dark">#003BAF</color>
+    <color name="on_primary_container_dark">#DCE1FF</color>
+
+    <color name="background_dark">#121318</color>
+    <color name="surface_dark">#1A1B21</color>
+
+    <!-- Semantic Market Colors -->
+    <color name="market_green">#10B981</color>
+    <color name="market_red">#EF4444</color>
+    <color name="offline_amber">#F59E0B</color>
+</resources>
